@@ -1,0 +1,23 @@
+*{
+  font-family: sans-serif;
+}
+
+body{
+  padding: 60px;
+}
+
+input{
+  display: block;
+  margin: 8px auto !important;
+  width: 100%;
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  outline: none;
+  padding: 8px;
+  font-size: 1.2em !important;
+}
+
+input:focus{
+  border: 1px solid #15a3c7;
+}
+
